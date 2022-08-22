@@ -7,7 +7,7 @@ I have been a teachers assistant for database, software development essentials a
 Through my experience at UVA, I have been a part of two research projects, one focusing on data parallelism and deep learning, then the other 
 focusing on cloud application for medical purposes. Also, I was a DevOps intern for nCino.
 
-Go check me out at <a href="owenlrichards.com" target="blank"> my personal profile </a>
+Go check me out at <a href="https://www.owenlrichards.com" target="blank"> my personal profile </a>
 
 <img src="./icons/codeproject.svg" height="50"> Currently looking for coding project, reach out with any ideas <img src="./icons/codeproject.svg" height="50">
 
