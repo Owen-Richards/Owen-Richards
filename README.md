@@ -1,4 +1,4 @@
-## Hello, I'm Owen :wave:
+## Hello, I'm Owen (he/him) :wave:
 
 ### About Me 
 
@@ -9,10 +9,21 @@ focusing on cloud application for medical purposes. Also, I was a DevOps intern 
 
 Go check me out at <a href="https://www.owenlrichards.com" target="blank"> my personal profile </a>
 
-<img src="./icons/codeproject.svg" height="50"> Currently looking for coding project, reach out with any ideas <img src="./icons/codeproject.svg" height="50">
+### Current Work 🔭
 
-- 🔭 I’m currently working on Climate Activist Website
-- 🔭 I’m currently working on Music Recommendation System using Machine Learning
-- 🌱 I’m currently learning AWS cloud, studing for DevOps Engineer Certificate
-- 👯 I’m looking to collaborate on any project
-- 😄 Pronouns: he/him
+Currently I am starting two new projects. The first is a Climate Activist Website that users can use 
+to inform thenselves about climate issues and ways to help. The second project is a music recommendation
+system using machine learning.
+
+I am also working toward my DevOps Engineering AWS certificate. I enjoy extending myself and learning. I am
+always looking to connect and meet people!
+
+### Lets Collaborate <img src="./icons/codeproject.svg" height="50">
+
+I am always looking for a new project to work on and meet new people.
+I enjoy learning new technologys, creating something interesting and meeting new people.
+
+Please feel free to reach out!
+
+- Send me a <a href="mailto:owenlrichards2000@gmail.com"> email </a>
+- Connect with me on <a href="linkedin.com/in/owen-richards-3058561b5"> LinkedIn </a>
