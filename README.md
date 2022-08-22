@@ -7,7 +7,7 @@ I have been a teachers assistant for database, software development essentials a
 Through my experience at UVA, I have been a part of two research projects, one focusing on data parallelism and deep learning, then the other 
 focusing on cloud application for medical purposes. Also, I was a DevOps intern for nCino.
 
-<img src="./icons/codeproject.svg">
+<img src="./icons/codeproject.svg" height="10">
 
 Here are some ideas to get you started:
 
