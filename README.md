@@ -1,29 +1,48 @@
-## Hello, I'm Owen (he/him) :wave:
+# Hi there, I'm Owen Richards 👋
 
-### About Me 
+## 🚀 About Me
+I'm a passionate developer with expertise in AI/ML, web development, and data science. I love building innovative solutions that make a real impact.
 
-I'm currently a student at the University of Virginia majoring in BS Computer Science and minoring in Business Engineering.
-I have been a teachers assistant for database, software development essentials and programming languages for web development.
-Through my experience at UVA, I have been a part of two research projects, one focusing on data parallelism and deep learning, then the other 
-focusing on cloud application for medical purposes. Also, I was a DevOps intern for nCino.
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Go check me out at <a href="https://www.owenlrichards.com" target="blank"> my personal profile </a>
+## 🔥 Featured Projects
 
-### Current Work 🔭
+### [🌐 Owen 2025 Portfolio](https://github.com/Owen-Richards/owen_2025_portfolio)
+My personal portfolio website showcasing my projects and skills.
+- **Tech:** React, Node.js, CSS
+- **Features:** Responsive design, project showcase, contact form
 
-Currently I am starting two new projects. The first is a Climate Activist Website that users can use 
-to inform thenselves about climate issues and ways to help. The second project is a music recommendation
-system using machine learning.
+### [🥗 AI Nutritionist](https://github.com/Owen-Richards/ai-nutritionist)
+An AI-powered application that provides personalized nutrition recommendations.
+- **Tech:** Python, TensorFlow, Flask
+- **Features:** ML model for dietary analysis, user-friendly interface
 
-I am also working toward my DevOps Engineering AWS certificate. I enjoy extending myself and learning. I am
-always looking to connect and meet people!
+### [✈️ SkyScount AI](https://github.com/Owen-Richards/skyscout-ai)
+Intelligent flight tracking and recommendation system using machine learning.
+- **Tech:** Python, scikit-learn, APIs
+- **Features:** Flight prediction, price optimization
 
-### Lets Collaborate <img src="./icons/codeproject.svg" height="50">
+### [🍵 Brobucha](https://github.com/byronrds/brobucha)
+Collaborative project for kombucha brewing management.
+- **Tech:** Full-stack application
+- **Features:** Recipe tracking, batch management
 
-I am always looking for a new project to work on and meet new people.
-I enjoy learning new technologys, creating something interesting and meeting new people.
+### [🌊 MLOps SDG14](https://github.com/Owen-Richards/mlops-sdg14)
+Machine learning operations project focused on UN Sustainable Development Goal 14 (Life Below Water).
+- **Tech:** MLOps, Python, CI/CD
+- **Features:** Model deployment, monitoring, sustainable ocean data analysis
 
-Please feel free to reach out!
+## 📊 GitHub Stats
+![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Owen-Richards&show_icons=true&theme=radical)
 
-- Send me a <a href="mailto:owenlrichards2000@gmail.com"> email </a>
-- Connect with me on <a href="linkedin.com/in/owen-richards-3058561b5"> LinkedIn </a>
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+⭐️ From [Owen-Richards](https://github.com/Owen-Richards)
