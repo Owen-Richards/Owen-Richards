@@ -1,6 +1,6 @@
 # Owen Richards
 
-**Principal-track Software Engineer** | Georgia Tech MS CS (ML) | CoStar Group
+**Software Engineer** | Georgia Tech MS CS (ML) | CoStar Group
 
 Building distributed systems at scale. Specializing in event-driven architecture, real-time data pipelines, and ML infrastructure.
 
