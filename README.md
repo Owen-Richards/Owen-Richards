@@ -4,12 +4,6 @@
 
 Building distributed systems at scale. Specializing in event-driven architecture, real-time data pipelines, and ML infrastructure.
 
-## Current Work
-
-At **CoStar Group**, I architect and maintain a centralized marketing automation platform handling:
-- 10M+ monthly queries across 7 real estate marketplaces
-- Millions of contact records with real-time data pipelines
-- Cross-platform integrations (Salesforce, LinkedIn, Google Analytics)
 
 **Tech:** C#/.NET, TypeScript, React, SQL Server, Snowflake, ElasticSearch, Redis, Kafka, AWS
 
